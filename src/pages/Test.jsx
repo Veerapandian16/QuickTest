@@ -11,8 +11,15 @@ import QuestionCard from "../components/QuestionCard";
 
 function Test() {
 
-  const { state } = useLocation();
-  const navigate = useNavigate();
+  const location = useLocation();
+const navigate = useNavigate();
+
+const state = location.state;
+
+if (!state) {
+  navigate("/");
+  return null;
+}
 
   const questionBank =
     state.subject === "math"
