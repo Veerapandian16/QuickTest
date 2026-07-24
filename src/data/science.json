@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "question": "Which gas is essential for respiration?",
+    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "id": 2,
+    "question": "The process by which plants make food is called?",
+    "options": ["Respiration", "Photosynthesis", "Digestion", "Transpiration"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "id": 3,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "id": 4,
+    "question": "Water freezes at?",
+    "options": ["100°C", "50°C", "0°C", "-10°C"],
+    "answer": "0°C"
+  },
+  {
+    "id": 5,
+    "question": "Which organ pumps blood throughout the body?",
+    "options": ["Brain", "Lungs", "Heart", "Kidney"],
+    "answer": "Heart"
+  },
+  {
+    "id": 6,
+    "question": "Which vitamin is produced when our skin is exposed to sunlight?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D"
+  },
+  {
+    "id": 7,
+    "question": "The largest organ in the human body is?",
+    "options": ["Heart", "Skin", "Liver", "Brain"],
+    "answer": "Skin"
+  },
+  {
+    "id": 8,
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 9,
+    "question": "The nearest star to Earth is?",
+    "options": ["Moon", "Sun", "Mars", "Venus"],
+    "answer": "Sun"
+  },
+  {
+    "id": 10,
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Iron", "Mercury", "Copper", "Silver"],
+    "answer": "Mercury"
+  },
+  {
+    "id": 11,
+    "question": "The boiling point of water is?",
+    "options": ["90°C", "95°C", "100°C", "120°C"],
+    "answer": "100°C"
+  },
+  {
+    "id": 12,
+    "question": "Which part of the plant absorbs water?",
+    "options": ["Stem", "Leaf", "Flower", "Root"],
+    "answer": "Root"
+  },
+  {
+    "id": 13,
+    "question": "The force that pulls objects towards Earth is?",
+    "options": ["Magnetism", "Gravity", "Friction", "Pressure"],
+    "answer": "Gravity"
+  },
+  {
+    "id": 14,
+    "question": "Animals that eat only plants are called?",
+    "options": ["Carnivores", "Omnivores", "Herbivores", "Scavengers"],
+    "answer": "Herbivores"
+  },
+  {
+    "id": 15,
+    "question": "Which blood cells fight infections?",
+    "options": ["Red Blood Cells", "White Blood Cells", "Platelets", "Plasma"],
+    "answer": "White Blood Cells"
+  },
+  {
+    "id": 16,
+    "question": "Which gas is most abundant in the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 17,
+    "question": "The SI unit of force is?",
+    "options": ["Joule", "Newton", "Pascal", "Watt"],
+    "answer": "Newton"
+  },
+  {
+    "id": 18,
+    "question": "Which instrument is used to measure temperature?",
+    "options": ["Barometer", "Thermometer", "Ammeter", "Speedometer"],
+    "answer": "Thermometer"
+  },
+  {
+    "id": 19,
+    "question": "Which source of energy is renewable?",
+    "options": ["Coal", "Petroleum", "Solar Energy", "Natural Gas"],
+    "answer": "Solar Energy"
+  },
+  {
+    "id": 20,
+    "question": "Which vitamin helps in blood clotting?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+    "answer": "Vitamin K"
+  },
+  {
+    "id": 21,
+    "question": "Which part of the cell controls all activities?",
+    "options": ["Cell Wall", "Nucleus", "Cytoplasm", "Membrane"],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 22,
+    "question": "The Moon revolves around?",
+    "options": ["Mars", "Sun", "Earth", "Jupiter"],
+    "answer": "Earth"
+  },
+  {
+    "id": 23,
+    "question": "Which material is attracted by a magnet?",
+    "options": ["Plastic", "Wood", "Iron", "Glass"],
+    "answer": "Iron"
+  },
+  {
+    "id": 24,
+    "question": "Which organ helps us breathe?",
+    "options": ["Heart", "Lungs", "Kidney", "Liver"],
+    "answer": "Lungs"
+  },
+  {
+    "id": 25,
+    "question": "Which layer protects the Earth from harmful UV rays?",
+    "options": ["Troposphere", "Ozone Layer", "Cloud Layer", "Mesosphere"],
+    "answer": "Ozone Layer"
+  }
+  ,
+{
+  "id": 26,
+  "question": "Which gas is released during photosynthesis?",
+  "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+  "answer": "Oxygen"
+},
+{
+  "id": 27,
+  "question": "The hardest natural substance is?",
+  "options": ["Gold", "Iron", "Diamond", "Silver"],
+  "answer": "Diamond"
+},
+{
+  "id": 28,
+  "question": "Which planet is the largest in our Solar System?",
+  "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+  "answer": "Jupiter"
+},
+{
+  "id": 29,
+  "question": "Which part of the human body helps in pumping blood?",
+  "options": ["Brain", "Heart", "Lungs", "Liver"],
+  "answer": "Heart"
+},
+{
+  "id": 30,
+  "question": "The process of conversion of water into water vapour is called?",
+  "options": ["Condensation", "Evaporation", "Freezing", "Melting"],
+  "answer": "Evaporation"
+},
+{
+  "id": 31,
+  "question": "Which vitamin helps in improving eyesight?",
+  "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+  "answer": "Vitamin A"
+},
+{
+  "id": 32,
+  "question": "The SI unit of temperature is?",
+  "options": ["Kelvin", "Celsius", "Newton", "Joule"],
+  "answer": "Kelvin"
+},
+{
+  "id": 33,
+  "question": "Which blood group is called the universal donor?",
+  "options": ["A", "B", "AB", "O Negative"],
+  "answer": "O Negative"
+},
+{
+  "id": 34,
+  "question": "The natural satellite of Earth is?",
+  "options": ["Sun", "Mars", "Moon", "Venus"],
+  "answer": "Moon"
+},
+{
+  "id": 35,
+  "question": "Which gas is used by plants for photosynthesis?",
+  "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+  "answer": "Carbon Dioxide"
+},
+{
+  "id": 36,
+  "question": "Which instrument measures rainfall?",
+  "options": ["Thermometer", "Rain Gauge", "Barometer", "Anemometer"],
+  "answer": "Rain Gauge"
+},
+{
+  "id": 37,
+  "question": "Which organ purifies blood in the human body?",
+  "options": ["Liver", "Kidney", "Heart", "Lungs"],
+  "answer": "Kidney"
+},
+{
+  "id": 38,
+  "question": "Which metal is attracted by a magnet?",
+  "options": ["Aluminium", "Copper", "Iron", "Gold"],
+  "answer": "Iron"
+},
+{
+  "id": 39,
+  "question": "Which source of energy is non-renewable?",
+  "options": ["Wind", "Solar", "Coal", "Hydroelectric"],
+  "answer": "Coal"
+},
+{
+  "id": 40,
+  "question": "What is the normal body temperature of a healthy human?",
+  "options": ["35°C", "36°C", "37°C", "38°C"],
+  "answer": "37°C"
+},
+{
+  "id": 41,
+  "question": "The process by which green plants lose water through leaves is called?",
+  "options": ["Respiration", "Photosynthesis", "Transpiration", "Digestion"],
+  "answer": "Transpiration"
+},
+{
+  "id": 42,
+  "question": "Which layer of the Earth contains molten rock?",
+  "options": ["Crust", "Mantle", "Core", "Atmosphere"],
+  "answer": "Mantle"
+},
+{
+  "id": 43,
+  "question": "Which gas is filled inside electric bulbs?",
+  "options": ["Hydrogen", "Argon", "Oxygen", "Nitrogen"],
+  "answer": "Argon"
+},
+{
+  "id": 44,
+  "question": "Which planet is closest to the Sun?",
+  "options": ["Venus", "Mercury", "Earth", "Mars"],
+  "answer": "Mercury"
+},
+{
+  "id": 45,
+  "question": "Which organ controls all activities of the body?",
+  "options": ["Heart", "Brain", "Kidney", "Liver"],
+  "answer": "Brain"
+},
+{
+  "id": 46,
+  "question": "Which type of mirror is used in vehicle rear-view mirrors?",
+  "options": ["Plane Mirror", "Convex Mirror", "Concave Mirror", "Spherical Mirror"],
+  "answer": "Convex Mirror"
+},
+{
+  "id": 47,
+  "question": "Which gas is responsible for global warming?",
+  "options": ["Carbon Dioxide", "Oxygen", "Hydrogen", "Helium"],
+  "answer": "Carbon Dioxide"
+},
+{
+  "id": 48,
+  "question": "Which part of the plant carries water from roots to leaves?",
+  "options": ["Flower", "Leaf", "Stem", "Fruit"],
+  "answer": "Stem"
+},
+{
+  "id": 49,
+  "question": "What is the main source of energy for Earth?",
+  "options": ["Moon", "Stars", "Sun", "Wind"],
+  "answer": "Sun"
+},
+{
+  "id": 50,
+  "question": "Which scientist discovered gravity?",
+  "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Thomas Edison"],
+  "answer": "Isaac Newton"
+}
+]
